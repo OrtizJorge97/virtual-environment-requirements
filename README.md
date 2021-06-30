@@ -6,7 +6,7 @@
   - source tutorial-env/bin/activate
 
 - Windows run:
-  - tutorial-env/Scripts/activate.bat
+  - tutorial-env/Scripts/activate (No extension required!)
 
 **print in python sys.path to check if the path of venv is inside**
 
